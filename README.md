@@ -3,7 +3,7 @@ WE STAND WITH THE PEOPLE OF PALESTINE!!!!!
 [![StandWithPalestine](https://github.com/Safouene1/support-palestine-banner/blob/master/StandWithPalestine.svg)](https://github.com/Safouene1/support-palestine-banner)
 
 ### Assaalamualaikum Warrahmatullahi Wabarakatuh 👋
-Ahlan, my name is Muhammad Farras Ma'ruf, Team Lead at [Venturium System Indonesia](https://github.com/Venturium-System-Indonesia) 
+Ahlan, my name is Muhammad Farras Ma'ruf, employee at [Venturium System Indonesia](https://github.com/Venturium-System-Indonesia) 
 
 - Im using Kali Linux, Ubuntu and Windows as my daily operational
 - If you wanna talk about IOT, please tell me, I'm also interested in IOT like arduino 
